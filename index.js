@@ -2,7 +2,7 @@
 // 10 JavaScript Problems & Solutions
 // ==========================================
 
-// 1. Reverse a String
+// 1. Reverse a String  
 const reverseString = str => str.split('').reverse().join('');
 console.log("1. Reverse String:", reverseString("hello"));
 
