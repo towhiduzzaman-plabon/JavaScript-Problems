@@ -1,5 +1,5 @@
 // ==========================================
-// 10 JavaScript Problems & Solutions   
+// 10 JavaScript Problems & Solutions
 // ==========================================
 
 // 1. Reverse a String  
