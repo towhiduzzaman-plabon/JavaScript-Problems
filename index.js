@@ -44,3 +44,5 @@ console.log("9. Title Case:", titleCase("i am a web developer"));
 // 10. Sum of Array
 const sumArray = arr => arr.reduce((t, n) => t + n, 0);
 console.log("10. Total Sum:", sumArray([10, 20, 30, 40]));
+
+-------
